@@ -2,9 +2,8 @@
 layout: post
 title: "Fedora Linux完全安装指南"
 date: 2022-6-23
-categories: jekyll update
+categories: Linux
 tags: [Linux,计算机技巧]
-comment_id: 2
 ---
 >Fedora Linux是目前我最喜欢的Linux发行版。它的可定制性强，界面美观、清爽、友好，并且有着强大的软件源 (yum，dnf，rpm）。本文将手把手教你安装Fedora Linux。
 
